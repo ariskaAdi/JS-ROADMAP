@@ -2,3 +2,11 @@
 ↳ var 
 ↳  let
 ↳  const
+
+2. Data Types
+↳  number 
+↳  string
+↳  boolean 
+↳  null
+↳  undefined
+↳  symbol
