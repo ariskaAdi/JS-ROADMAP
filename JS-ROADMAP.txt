@@ -9,3 +9,8 @@
 ↳  null
 ↳  undefined
 ↳  symbol
+
+3.operators
+↳  Arithmetic Operators: +, -, *, /, %
+↳  Comparison Operators: ==, ===, !=, !==, <, >, <=, >=
+↳  Logical Operators: &&, ||, !
