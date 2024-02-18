@@ -1,0 +1,14 @@
+4.Expressions 
+Primary expressions
+↳ this
+↳  Literals
+↳  []
+↳  {}
+↳  function
+↳  class
+↳ function*
+↳  async function
+↳  async function*
+↳  /ab+c/i
+↳ `string`
+↳  ( )
