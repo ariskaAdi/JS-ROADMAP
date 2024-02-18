@@ -1,0 +1,23 @@
+4.Expressions 
+Primary expressions
+↳ this
+↳  Literals
+↳  []
+↳  {}
+↳  function
+↳  class
+↳ function*
+↳  async function
+↳  async function*
+↳  /ab+c/i
+↳ `string`
+↳  ( )
+
+Left-hand-side expressions
+↳  Property accessors
+↳ ?.
+↳  new
+↳  new .target
+↳ import.meta
+↳  super
+↳  import()
